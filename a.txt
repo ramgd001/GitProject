@@ -1,3 +1,11 @@
 Hello how are you
 I am doing good
+<<<<<<< HEAD
 branch1
+=======
+Hello!!!!!!
+############################
+Hello
+how r u doing!!!
+first line
+>>>>>>> 25cfaf9274b4cf61b107e3b00f25979065e5ad61
