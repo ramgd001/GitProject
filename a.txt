@@ -13,6 +13,7 @@ first line
 =======
 <<<<<<< HEAD
 Another person..........
+<<<<<<< HEAD
 =======
 first line-111111
 master update
@@ -23,3 +24,6 @@ master update
 New Comment -------------------------
 stashing 123
 >>>>>>> master
+=======
+branch 5 comments
+>>>>>>> 6f29ca2344b49f46dacfeb634d188b5f383d9333
