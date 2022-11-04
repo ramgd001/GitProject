@@ -17,4 +17,9 @@ Another person..........
 first line-111111
 master update
 >>>>>>> 1d7a234366a730d29192e1614009e1ac8dfca0f5
+<<<<<<< HEAD
 >>>>>>> ffe41e4af130d436f1171c27e871b53dbf2ed163
+=======
+New Comment -------------------------
+stashing 123
+>>>>>>> master
